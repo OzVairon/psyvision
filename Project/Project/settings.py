@@ -26,10 +26,10 @@ SECRET_KEY = '3@ii)7#z#9l5g+^tqaj&uqck&g7p2_ol1s61d!=)rj2i*h(1xn'
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    '52.232.82.110', 
-    'psyvision1.westeurope.cloudapp.azure.com', 
-    'localhost', 
-    '127.0.0.1'
+    '52.232.82.110',
+    'psyvision1.westeurope.cloudapp.azure.com',
+    '127.0.0.1',
+    'localhost',
 ]
 
 

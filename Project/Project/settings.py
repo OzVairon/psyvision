@@ -25,7 +25,12 @@ SECRET_KEY = '3@ii)7#z#9l5g+^tqaj&uqck&g7p2_ol1s61d!=)rj2i*h(1xn'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['52.232.82.110']
+ALLOWED_HOSTS = [
+    '52.232.82.110', 
+    'psyvision1.westeurope.cloudapp.azure.com', 
+    'localhost', 
+    '127.0.0.1'
+]
 
 
 # Application definition
